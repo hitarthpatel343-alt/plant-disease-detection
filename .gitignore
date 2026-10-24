@@ -1,0 +1,22 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Dataset
+data/
+
+# Model checkpoints - exclude large files by default
+*.pth
+
+# Sensitive configuration
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
