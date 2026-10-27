@@ -1,0 +1,229 @@
+{
+    "Apple___Apple_scab": {
+        "plant": "Apple",
+        "disease": "Apple Scab",
+        "scientific_name": "Venturia inaequalis",
+        "symptoms": [
+            "Olive-green to dark spots may appear on leaves.",
+            "Severe infection can distort leaves and cause corky or cracked fruit lesions."
+        ],
+        "disease_development": "The pathogen can survive in infected fallen leaves. Spores may infect new growth under suitable wet conditions.",
+        "management": [
+            "Collect and appropriately dispose of infected fallen leaves.",
+            "Improve airflow where practical.",
+            "Use locally approved control measures with advice from an agricultural expert."
+        ],
+        "prevention": [
+            "Maintain orchard sanitation.",
+            "Monitor leaves and fruit.",
+            "Reduce prolonged leaf wetness where practical."
+        ],
+        "source_url": "https://ppqs.gov.in/sites/default/files/pop-apple_final-_08.12.2022.pdf"
+    },
+    "Apple___Black_rot": {
+        "plant": "Apple",
+        "disease": "Apple Black Rot",
+        "scientific_name": "Botryosphaeria obtusa",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Apple___Cedar_apple_rust": {
+        "plant": "Apple",
+        "disease": "Apple Cedar Apple Rust",
+        "scientific_name": "Gymnosporangium juniperi-virginianae",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Apple___healthy": {
+        "plant": "Apple",
+        "disease": "Healthy",
+        "scientific_name": "",
+        "symptoms": [
+            "No obvious disease symptoms are visible in the submitted image."
+        ],
+        "disease_development": "",
+        "management": [],
+        "prevention": [
+            "Continue routine plant care and monitor for changes."
+        ],
+        "source_url": ""
+    },
+    "Ash_Gourd__Downy_mildew": {
+        "plant": "Ash Gourd",
+        "disease": "Downy Mildew",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Ash_Gourd__Healthy": {
+        "plant": "Ash Gourd",
+        "disease": "Healthy",
+        "scientific_name": "",
+        "symptoms": [
+            "No obvious disease symptoms are visible in the submitted image."
+        ],
+        "disease_development": "",
+        "management": [],
+        "prevention": [
+            "Continue routine plant care and monitor for changes."
+        ],
+        "source_url": ""
+    },
+    "Ash_Gourd__Leaf_curl": {
+        "plant": "Ash Gourd",
+        "disease": "Leaf Curl",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Ash_Gourd__Leaf_miner": {
+        "plant": "Ash Gourd",
+        "disease": "Leaf Miner",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Bean__angular_leaf_spot": {
+        "plant": "Bean",
+        "disease": "Angular Leaf Spot",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Cauliflower__Alternaria_leaf_spot": {
+        "plant": "Cauliflower",
+        "disease": "Alternaria Leaf Spot",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Cauliflower__Bacterial_soft_rot": {
+        "plant": "Cauliflower",
+        "disease": "Bacterial Soft Rot",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Cauliflower__Black_Spot": {
+        "plant": "Cauliflower",
+        "disease": "Black Spot",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Cauliflower__Downy_mildew": {
+        "plant": "Cauliflower",
+        "disease": "Downy Mildew",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Cauliflower__Healthy": {
+        "plant": "Cauliflower",
+        "disease": "Healthy",
+        "scientific_name": "",
+        "symptoms": [
+            "No obvious disease symptoms are visible in the submitted image."
+        ],
+        "disease_development": "",
+        "management": [],
+        "prevention": [
+            "Continue routine plant care and monitor for changes."
+        ],
+        "source_url": ""
+    },
+    "Cauliflower__Purple_Tinges": {
+        "plant": "Cauliflower",
+        "disease": "Purple Tinges",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Okra__Alternaria_Leaf_Spot": {
+        "plant": "Okra",
+        "disease": "Alternaria Leaf Spot",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "Okra__Phyllosticta_leaf_spot": {
+        "plant": "Okra",
+        "disease": "Phyllosticta Leaf Spot",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "banana__black_sigatoka": {
+        "plant": "Banana",
+        "disease": "Black Sigatoka",
+        "scientific_name": "Pseudocercospora fijiensis",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "banana__cordana": {
+        "plant": "Banana",
+        "disease": "Cordana Leaf Spot",
+        "scientific_name": "",
+        "symptoms": [],
+        "disease_development": "",
+        "management": [],
+        "prevention": [],
+        "source_url": ""
+    },
+    "banana__healthy": {
+        "plant": "Banana",
+        "disease": "Healthy",
+        "scientific_name": "",
+        "symptoms": [
+            "No obvious disease symptoms are visible in the submitted image."
+        ],
+        "disease_development": "",
+        "management": [],
+        "prevention": [
+            "Continue routine plant care and monitor for changes."
+        ],
+        "source_url": ""
+    }
+}
